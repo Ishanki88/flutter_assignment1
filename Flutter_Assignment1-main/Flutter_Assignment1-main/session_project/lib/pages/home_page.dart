@@ -9,8 +9,8 @@ class home_page extends StatelessWidget {
       ),
       body: Center(
         child: Text(
-          'WELCOME TO THE NSBM GREEN UNIVERSITY',
-          style: TextStyle(fontSize: 18),
+          'Hi I am Ishanki',
+          style: TextStyle(fontSize: 20),
         ),
       ),
     );
